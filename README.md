@@ -6,6 +6,8 @@
 ![WordPress](https://img.shields.io/badge/WordPress-5.8%2B-21759b)
 ![PMPro](https://img.shields.io/badge/PMPro-2.0%2B-orange)
 
+> **Disclaimer:** This plugin is provided as-is, without warranty of any kind. Use at your own risk. The author is not responsible for any financial loss, missed payments, or membership activation issues. Always test thoroughly in a staging environment before deploying to production. This is not financial advice.
+
 Accept Bitcoin payments on [Paid Memberships Pro](https://www.paidmembershipspro.com/) using [Blockonomics](https://www.blockonomics.co/) — non-custodial, direct-to-wallet. No intermediaries, no custodial risk, Bitcoin goes straight to your wallet.
 
 ---
